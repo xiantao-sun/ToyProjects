@@ -13,3 +13,5 @@ print("it took me this long to sort ", array_size, " intergers:")
 
 #=it took me this long to sort 100000 intergers:
   9.665209 seconds (4.48 k allocations: 217.255 KB)=#
+
+
