@@ -42,4 +42,4 @@ int main()
 	return 0;
 }
 
-/*It took me 3808 milliseconds to sort 100000 intergers*/
+/*It took me 3808 milliseconds to sort 100000 integers*/
